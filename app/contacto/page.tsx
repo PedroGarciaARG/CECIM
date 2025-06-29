@@ -189,10 +189,7 @@ export default function ContactoPage() {
                 <CardContent>
                   <div className="space-y-2 text-gray-700">
                     <p>
-                      <strong>Lunes a Viernes:</strong> 9:00 - 17:00
-                    </p>
-                    <p>
-                      <strong>Sábados:</strong> 9:00 - 13:00
+                      <strong>Lunes a Viernes:</strong> 9:00 - 16:00
                     </p>
                     <p className="text-sm text-blue-600 mt-3">
                       Para consultas urgentes, contactar directamente a la presidenta

@@ -49,7 +49,7 @@ export default function ServiciosPage() {
                       "Documentos del consentimiento informado",
                       "Materiales dirigidos a participantes",
                       "Proceso de incorporación de participantes",
-                      "Monografía del producto en investigación",
+                      "Brochure del producto en investigación",
                       "Información sobre procedimientos experimentales",
                     ].map((item, index) => (
                       <li key={index} className="flex items-start">
