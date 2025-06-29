@@ -9,13 +9,13 @@ export default function ContactoPage() {
   return (
     <div className="min-h-screen pt-20">
       {/* Hero Section */}
-      <section className="relative py-20 bg-gradient-to-br from-blue-600 to-blue-800 text-white overflow-hidden">
+      <section className="relative py-20 bg-white text-blue-900 overflow-hidden">
         <AnimatedDots />
         <div className="container mx-auto px-4 text-center relative z-10">
           <h1 className="text-4xl md:text-5xl font-bold mb-6 animate-in slide-in-from-bottom-4 duration-1000">
             Contacto
           </h1>
-          <p className="text-xl text-blue-100 max-w-3xl mx-auto animate-in slide-in-from-bottom-4 duration-1000 delay-300">
+          <p className="text-xl text-blue-700 max-w-3xl mx-auto animate-in slide-in-from-bottom-4 duration-1000 delay-300">
             Estamos aquí para ayudarle con sus consultas sobre evaluación ética en investigación clínica
           </p>
         </div>
